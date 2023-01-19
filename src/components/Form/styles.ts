@@ -68,6 +68,11 @@ const FormContainer = styled.form`
         color: var(--grey-0);
     }
 
+    label {
+        color: var(--title-1);
+        font-style: italic;
+    }
+
 `
 
 export { FormContainer }
